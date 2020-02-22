@@ -14,4 +14,4 @@ https://nbviewer.jupyter.org/github/phyhuhu/Coursera_Capstone/blob/master/Capsto
 In order to make better typesetting, I use the library "IPython.core.display", which may not work in Github. Please use "nbviewer" for this report in the following link:
 https://nbviewer.jupyter.org/github/phyhuhu/Coursera_Capstone/blob/master/Capstone_week5_report.ipynb
 
-3. The Linkedin Blog: (Coming Soon!)
+3. The Linkedin Blog: https://www.linkedin.com/pulse/battle-neighborhoods-houston-restaurants-wenjun-hu
